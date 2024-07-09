@@ -1,4 +1,3 @@
-# agile-final-project
 # Projet de Planning Agile
 
 ## Description
